@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Удовенко Марина](https://up.htmlacademy.ru/javascript/17/user/7570).
-* Наставник: `Неизвестно`.
+* Наставник: `Кекс`.
 
 ---
 
